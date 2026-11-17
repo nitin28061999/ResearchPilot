@@ -3,6 +3,7 @@
         "adocs",
         "BAAI",
         "dedupe",
+        "langgraph",
         "qwen"
     ]
 }

@@ -1,0 +1,6 @@
+qdrant-client
+fastembed
+openai
+langgraph
+ddgs
+streamlit
